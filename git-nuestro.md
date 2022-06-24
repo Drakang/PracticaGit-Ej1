@@ -12,7 +12,7 @@ Danos hoy nuestro *pull* de cada día
 
 Perdona nuestros *conflictos*
 
-Como tambíen perdonamos a los de otros geeks
+Como tambíen perdonamos a los de otros geeks<br/>
 
 No nos dejes caer en *detached HEAD*
 
